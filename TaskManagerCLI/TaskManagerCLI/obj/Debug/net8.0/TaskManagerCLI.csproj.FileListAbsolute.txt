@@ -1,0 +1,15 @@
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\bin\Debug\net8.0\TaskManagerCLI.exe
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\bin\Debug\net8.0\TaskManagerCLI.deps.json
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\bin\Debug\net8.0\TaskManagerCLI.runtimeconfig.json
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\bin\Debug\net8.0\TaskManagerCLI.dll
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\bin\Debug\net8.0\TaskManagerCLI.pdb
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.AssemblyInfoInputs.cache
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.AssemblyInfo.cs
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.csproj.CoreCompileInputs.cache
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.sourcelink.json
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.dll
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\refint\TaskManagerCLI.dll
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.pdb
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\TaskManagerCLI.genruntimeconfig.cache
+D:\GIT\Task-Tracker-CLI\TaskManagerCLI\TaskManagerCLI\obj\Debug\net8.0\ref\TaskManagerCLI.dll
